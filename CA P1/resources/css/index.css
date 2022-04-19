@@ -11,6 +11,9 @@ h2 {
       color: khaki;
       text-align: center;
       background-image: url("../Images/pattern.webp");
+      position: relative;
+      display: block;
+      top: -35px;
   }
 
   #brushes-title {
